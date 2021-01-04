@@ -16,6 +16,8 @@
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.1",
     "tailwindcss": "2.0.1-compat",
+    "three": "0.124.0",
+    "three.interaction": "0.2.3",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
