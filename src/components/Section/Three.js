@@ -113,7 +113,6 @@ const Three = ({onSelect}) => {
             }
             return needResize;
         }
-        const texLoader = new THREE.TextureLoader();
 
         const move = function(obj){
             if(obj.name && flag === obj.name){
